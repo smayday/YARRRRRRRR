@@ -15,4 +15,4 @@ vim.opt.incsearch = true
 vim.opt.termguicolors = true
 vim.opt.scrolloff = 8
 vim.g.mapleader = " "
-vim.cmd[[set indentexpr = ""]]
+vim.opt.indentexpr = ""

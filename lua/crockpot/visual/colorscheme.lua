@@ -20,7 +20,7 @@ local func = choice_func[choice]
 func()
 
 vim.cmd[[set rnu]]
-vim.cmd[[set textwidth=80]]
+vim.cmd[[set textwidth=120]]
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
 vim.opt.expandtab = true
